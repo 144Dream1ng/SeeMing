@@ -3,7 +3,7 @@
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="256" align="right" style="margin-left: 10px;" vspace="10">
   <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
 		
-		ㅁㅗㄱ차
+	ㅁㅗㄱ차
 		
 		ㅁㅁ
 
