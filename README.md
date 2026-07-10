@@ -1,13 +1,9 @@
 # SeeMing ㅣ 시밍
 <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
 
-
-<p align="center">
+<p align="right">
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="150">
-</p>
-
-<p align="center">
-
+    <strong>llllllllllllllllll</strong>
 </p>
 
 ## 라이선스
