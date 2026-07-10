@@ -3,7 +3,10 @@
 
 <p align="right">
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="150">
-    <strong>llllllllllllllllll</strong>
+</p>
+
+<p>
+	<strong>llllllllllllllllll</strong>
 </p>
 
 ## 라이선스
