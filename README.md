@@ -1,7 +1,7 @@
 # SeeMing ㅣ 시밍
 <p>
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="256" align="right" style="margin-left: 10px;" vspace="60">
-  <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
+  <strong><br>With 144D.reaming (Reaming ㅣ 리밍)</strong>
 </p>
 
 <br clear="right">
