@@ -2,19 +2,17 @@
 <p>
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="256" align="right" style="margin-left: 10px;" vspace="10">
   <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
+		ㅁㅗㄱ차
+		ㅁㅁ
+		ㅁㅁㅁ
+		ㅁㅁㅁㅁ
+		ㅁㅁㅁㅁㅁ
 </p>
 
 <br clear="right">
 
 <p align="right">
 	<strong>설명설명설명설명</strong>
-</p>
-
-<p align="left">
-	ㅁㅁㅁ
-	ㅁㅁㅁㅁ
-	ㅁㅁㅁㅁ
-	ㅁㅁㅁㅁ
 </p>
 
 
