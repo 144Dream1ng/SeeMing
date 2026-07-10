@@ -1,5 +1,5 @@
 <p>
-  <img src="https://via.placeholder.com/150" alt="Bot Logo" width="256" align="right" style="margin-left: 10px;" vspace="10">
+  <img src="https://via.placeholder.com/150" alt="Bot Logo" width="256" align="right" style="margin-left: 10px;" vspace="60">
   <h1 style="font-size: 2em; font-weight: bold; display: inline-block; margin: 0;">SeeMing ㅣ 시밍</h1><br>
   <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
 </p>
