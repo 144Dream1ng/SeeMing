@@ -1,5 +1,13 @@
 # SeeMing ㅣ 시밍
 
+<p align="center">
+  <img src="https://via.placeholder.com/150" alt="Bot Logo" width="150">
+</p>
+
+<p align="center">
+  <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
+</p>
+
 ## 라이선스
 
 ![License](https://img.shields.io/badge/License-Source--Available-red?style=flat-square)
