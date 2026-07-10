@@ -2,7 +2,7 @@
 <p>
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="256" align="right" style="margin-left: 10px;" vspace="10">
   <strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
-	<br><span style="font-size: 2em; font-weight: bold;">ㅁㅗㄱ차</span>
+	<br><span style="font-size: 4em; font-weight: bold;">ㅁㅗㄱ차</span>
 		
 	ㅁㅁ
 
