@@ -1,14 +1,3 @@
-# SeeMing ㅣ 시밍
-<strong>With 144D.reaming (Reaming ㅣ 리밍)</strong>
-
-<p align="right">
-  <img src="https://via.placeholder.com/150" alt="Bot Logo" width="150">
-</p>
-
-<p align="right">
-	<strong>llllllllllllllllll</strong>
-</p>
-
 <p>
   <img src="https://via.placeholder.com/150" alt="Bot Logo" width="150" align="right" style="margin-left: 10px;">
   <span style="font-size: 2em; font-weight: bold;"><h1>SeeMing ㅣ 시밍</h1></span><br>
@@ -18,7 +7,7 @@
 <br clear="right">
 
 <p align="right">
-	<strong>llllllllllllllllll</strong>
+	<strong>설명설명설명설명</strong>
 </p>
 
 
