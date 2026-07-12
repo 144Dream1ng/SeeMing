@@ -1,0 +1,13 @@
+{
+    "status_name1": "your",
+    "status_name2": "status",
+    "status_desc": "Seaming will tell you its current status!",
+    "status_emb_title": [
+        "✨ Seaming is here!",
+        "💨 Seaming is responding quickly!"
+    ],
+    "status_emb_lat_title": "🕑 Latency",
+    "status_emb_lat": "Seaming is responding with a latency of **{latency}ms**!",
+    "status_emb_mem_title": "🍕 Memory Usage",
+    "status_emb_mem": "Seaming is currently using **{memory:.2f}MB** of server memory!"
+}
