@@ -5,9 +5,6 @@
 	<br><br>
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Discord-nextcord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Nextcord Badge">
-  <img src="https://img.shields.io/badge/Logging-rich-FAE742?style=flat-square" alt="Rich Badge">
-  <img src="https://img.shields.io/badge/Env-python--dotenv-ECD53F?style=flat-square" alt="python-dotenv Badge">
-  <img src="https://img.shields.io/badge/System-psutil-4C8CBF?style=flat-square" alt="psutil Badge">
 </p>
 
 <br clear="right">
@@ -31,9 +28,6 @@ SeaMing(시밍)은 `nextcord` 기반으로 동작하는 디스코드 봇이며, 
 <p>
   <img src="https://img.shields.io/badge/언어-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/프레임워크-nextcord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="nextcord">
-  <img src="https://img.shields.io/badge/환경변수-python--dotenv-ECD53F?style=for-the-badge" alt="python-dotenv">
-  <img src="https://img.shields.io/badge/로깅-rich-141414?style=for-the-badge" alt="rich">
-  <img src="https://img.shields.io/badge/시스템유틸-psutil-4C8CBF?style=for-the-badge" alt="psutil">
 </p>
 
 - **언어**: Python
