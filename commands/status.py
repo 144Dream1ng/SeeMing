@@ -24,9 +24,9 @@ class StatusCog(commands.Cog):
         name=get("status_name1")["en-US"],
         name_localizations=get("status_name1"),
     )
-    async def mam(self, interaction: nextcord.Interaction): pass
+    async def status_first(self, interaction: nextcord.Interaction): pass
     
-    @mam.subcommand(
+    @status_first.subcommand(
         name=get("status_name2")["en-US"],
         description=get("status_desc")["en-US"],
         name_localizations=get("status_name2"),
